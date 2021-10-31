@@ -33,4 +33,4 @@ cd android && ./gradlew assembleDebug
 
 ### Follow For More
 
-![alt text](src/Images/App Icons folder/appstore.png)
+![alt text](./src/Images/App Icons folder/appstore.png)
