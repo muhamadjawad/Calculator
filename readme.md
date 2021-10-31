@@ -5,7 +5,7 @@
 
 </p>
 
-<video src='./src/Images/calculator_demo.mp4' width=180 />
+![](./src/Images/calculator_demo.mp4)
 
 ## Summary
 
