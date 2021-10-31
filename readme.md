@@ -6,6 +6,11 @@
 </p>
 
 
+<video width="320" height="240" controls>
+  <source src='./src/Images/calculator_demo.mp4' type="video/mp4">
+</video>
+
+
 ## Summary
 
 the following is code for Calculator using React Native Which has all basic operations
