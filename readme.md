@@ -31,6 +31,8 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 cd android && ./gradlew assembleDebug
 ```
 
-### Follow For More
+### Front End
 
 ![Alt text](./src/Images/Calculator_Front_Theme.jpeg?raw=true 'Title')
+
+<img src="./src/Images/Calculator_Front_Theme.jpeg" alt="drawing" width="200"/>
