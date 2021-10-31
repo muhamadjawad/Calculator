@@ -7,7 +7,11 @@
 
 <!-- ![](./src/Images/calculator_demo.mp4) -->
 
-![alt_text](./src/Images/calculator_demo.mp4)
+<!-- ![alt_text](./src/Images/calculator_demo.mp4) -->
+
+
+https://user-images.githubusercontent.com/50518179/139589030-4561f5fa-495a-46ca-b2b4-c4f61b1f3db7.mp4
+
 
 ## Summary
 
