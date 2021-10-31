@@ -33,4 +33,4 @@ cd android && ./gradlew assembleDebug
 
 ### Follow For More
 
-![Alt text](./src/Images/Calculator_App_Icon.png?raw=true 'Title')
+![Alt text](./src/Images/Calculator_Front_Theme.jpeg?raw=true 'Title')
