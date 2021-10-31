@@ -5,7 +5,9 @@
 
 </p>
 
-<iframe width="420" height="315" src="./src/Images/calculator_demo.mp4" frameborder="0" allowfullscreen></iframe>
+<!-- ![](./src/Images/calculator_demo.mp4) -->
+
+![alt_text](./src/Images/calculator_demo.mp4)
 
 ## Summary
 
