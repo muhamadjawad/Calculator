@@ -1,3 +1,10 @@
+## Front view
+
+<p align="center">
+<img src="./src/Images/Calculator_Front_Theme.jpeg" alt="drawing" width="200"    />
+
+</p>
+
 ## Summary
 
 the following is code for Calculator using React Native Which has all basic operations
@@ -31,8 +38,4 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 cd android && ./gradlew assembleDebug
 ```
 
-### Front End
-
-![Alt text](./src/Images/Calculator_Front_Theme.jpeg?raw=true 'Title')
-
-<img src="./src/Images/Calculator_Front_Theme.jpeg" alt="drawing" width="200"/>
+<!-- ![Alt text](./src/Images/Calculator_Front_Theme.jpeg?raw=true 'Title') -->
